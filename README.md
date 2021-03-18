@@ -21,12 +21,12 @@
 2) Redux stores all the values for Launches and display to frontend.
 3) Added filter functionality by year, launch success, land success.
 
-## Deployment
-
+## Deployed on netlify
+[Open [https://warehouse-io-ankit.netlify.app](https://warehouse-io-ankit.netlify.app) to view it in the browser.]
 
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
