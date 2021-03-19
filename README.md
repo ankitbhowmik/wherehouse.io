@@ -25,6 +25,11 @@
 [Open [https://warehouse-io-ankit.netlify.app](https://warehouse-io-ankit.netlify.app) to view it in the browser.]
 
 
+#### lighthouse score
+![Alt text](lighthouse.png?raw=true "Title")
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
